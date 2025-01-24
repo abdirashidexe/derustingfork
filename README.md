@@ -1,4 +1,4 @@
-# DO NOT DOWNLOAD THIS CODE AS A ZIP FILE
+# DO NOT DOWNLOAD THIS CODE AS A ZIP FILE.
 # READ ME FIRST BEFORE DOWNLOADING
 
 This repository will be used to practice both your git and Java skills. DO NOT DOWNLOAD IT AS A ZIP FILE. Downloading it as a zip file will prevent the git commands from working properly.
